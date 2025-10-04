@@ -1,0 +1,2 @@
+ipykernel>=6.29.0
+ruff>=0.2.2
